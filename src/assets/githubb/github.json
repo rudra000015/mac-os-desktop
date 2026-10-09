@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Locara",
+    "image": "https://livingheritage.mit.edu/landing/discover.png",
+    "description": "A hyperlocal heritage and cultural commerce platform connecting explorers with local businesses and experiences.",
+    "tech": ["Next.js", "React", "Node.js", "MongoDB"],
+    "repo": "https://github.com/yourusername/locara"
+  },
+  {
+    "id": 2,
+    "title": "The A&R Store",
+    "image": "https://cdn.dribbble.com/userupload/43067798/file/original-590b59e1ae3c6ce8800d3dd813be4a38.jpg?crop=0x0-1920x1440&resize=1600x1200",
+    "description": "A full-stack e-commerce platform with product management, authentication, cart, and admin dashboard.",
+    "tech": ["React", "Node.js", "Express", "MongoDB"],
+    "repo": "https://github.com/yourusername/the-ar-store"
+  },
+  {
+    "id": 3,
+    "title": "Aerofit Automation",
+    "image": "https://cdn.dribbble.com/userupload/16026392/file/original-0a1345ffa5b9164e4d356efd8d8fd2b2.png?resize=%7Bwidth%7Dx%7Bheight%7D&vertical=center",
+    "description": "WhatsApp automation system for gym membership reminders and customer notifications.",
+    "tech": ["Google Sheets", "Google Apps Script", "WhatsApp Cloud API"],
+    "repo": "https://github.com/yourusername/aerofit-automation"
+  },
+  {
+    "id": 4,
+    "title": "The Lady Look",
+    "image": "https://lesamisboutique.com/cdn/shop/files/3_1e05dda4-cc6c-4bdc-882d-45d53de33d0a.jpg?v=1776068279&width=1920",
+    "description": "Digital loyalty and membership system with reward points, referrals, membership cards, and WhatsApp automation.",
+    "tech": ["Google Apps Script", "Google Sheets", "WhatsApp Cloud API"],
+    "repo": "https://github.com/yourusername/lady-look"
+  },
+  {
+    "id": 5,
+    "title": "3D Boutique",
+    "image": "https://www.marcelodesignx.com/wp-content/uploads/2023/08/suiton.png",
+    "description": "Interactive 3D boutique showroom built for an immersive web experience.",
+    "tech": ["React", "Three.js", "GSAP", "WebGL"],
+    "repo": "https://github.com/yourusername/3d-boutique"
+  },
+  {
+    "id": 6,
+    "title": "Real-Time Chat",
+    "image": "https://repository-images.githubusercontent.com/352083655/c47d6100-901b-11eb-8003-c0b6105aa5f6",
+    "description": "Real-time messaging application with authentication, online status, and instant communication.",
+    "tech": ["React", "Node.js", "Socket.IO", "MongoDB"],
+    "repo": "https://github.com/yourusername/realtime-chat"
+  }
+]

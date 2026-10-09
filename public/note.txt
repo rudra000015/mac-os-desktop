@@ -1,0 +1,135 @@
+
+MY NOTES
+========
+
+Portfolio
+---------
+
+Current project:
+Building a macOS-inspired developer portfolio.
+
+Main sections:
+- Home
+- Projects
+- GitHub
+- About
+- Contact
+
+Projects
+--------
+
+1. Locara
+   Hyperlocal heritage and cultural commerce platform.
+   Tech: Next.js, React, Node.js, MongoDB
+
+2. The A&R Store
+   Full-stack e-commerce platform.
+   Tech: React, Node.js, Express, MongoDB
+
+3. Aerofit Automation
+   WhatsApp automation system for gym membership reminders.
+   Tech: Google Sheets, Google Apps Script, WhatsApp Cloud API
+
+4. The Lady Look
+   Digital loyalty and membership automation system.
+   Tech: Google Apps Script, Google Sheets, WhatsApp Cloud API
+
+5. 3D Boutique
+   Interactive 3D boutique showroom.
+   Tech: React, Three.js, GSAP, WebGL
+
+6. Real-Time Chat
+   Real-time messaging application.
+   Tech: React, Node.js, Socket.IO, MongoDB
+
+
+Tech Stack
+----------
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- GSAP
+- Three.js
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Netlify
+
+
+Current Learning
+----------------
+
+- C++
+- DSA
+- Java
+- JavaScript
+- React
+- Three.js
+- Backend Development
+
+
+DSA Topics
+----------
+
+- Arrays
+- Strings
+- Two Pointers
+- Sliding Window
+- Hashing
+- Sorting
+- Searching
+- Recursion
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+
+
+Current DSA Practice
+--------------------
+
+- Move Zeros to End
+- Rotate Array
+- Remove Duplicates
+- Two Sum
+- Maximum Subarray
+- Valid Anagram
+- Valid Palindrome
+- Longest Common Prefix
+
+
+Portfolio Goals
+---------------
+
+- Clean macOS-inspired interface
+- Smooth animations
+- Functional project links
+- GitHub repository links
+- Live project previews
+- Responsive layout
+- Fast loading
+- Premium visual design
+
+
+Reminder
+--------
+
+Focus on building projects and understanding the code,
+not just copying solutions.
+
+Keep learning consistently.

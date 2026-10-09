@@ -1,0 +1,85 @@
+.docs {
+  position: absolute;
+  left: 50%;
+  bottom: 15px;
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 8px 10px;
+
+  border-radius: 18px;
+  background: rgba(245, 245, 245, 0.24);
+
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+
+  transform: translateX(-50%);
+
+  .icons {
+    width: 46px;
+    height: 46px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 14px;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+
+    transition: transform 0.2s ease;
+
+    img {
+      width: 28px;
+      height: 28px;
+      object-fit: contain;
+    }
+
+    // Hovered icon
+    &:hover {
+      transform: scale(1.2) translateY(-20%);
+    }
+
+    // Icon on the right + icon on the left
+    &:hover + .icons,
+    &:has(+ .icons:hover) {
+      transform: scale(1.1) translateY(-10%);
+    }
+  }
+
+  // Background colors
+  .calendar {
+    background: #ffd6d6;
+  }
+
+  .cli {
+    background: #d6eaff;
+  }
+
+  .github {
+    background: #e2e2e2;
+  }
+
+  .link {
+    background: #ead9ff;
+  }
+
+  .mail {
+    background: #d9efff;
+  }
+
+  .note {
+    background: #fff0bd;
+  }
+
+  .pdf {
+    background: #ffd6d6;
+  }
+
+  .spotify {
+    background: #d7f8e4;
+  }
+}

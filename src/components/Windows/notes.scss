@@ -1,0 +1,64 @@
+.note-window {
+  min-width: 0;
+  overflow-x: hidden;
+  padding: 30px;
+  height: 100%;
+  overflow-y: auto;
+  font-family: Arial, sans-serif;
+  color: #222;
+  background: #fbe6e6;
+}
+
+.note-window h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.note-window h2 {
+  font-size: 24px;
+  margin-top: 25px;
+}
+
+.note-window h3 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.note-window p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.note-window ul,
+.note-window ol {
+  padding-left: 25px;
+}
+
+.note-window li {
+  margin: 6px 0;
+}
+
+
+
+.note-window pre {
+  max-width: 100%;
+  background: #222;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  overflow-x: hidden;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.note-window a {
+  color: #007aff;
+}
+
+*::-webkit-scrollbar{
+  width: 6px;
+}
+
+*::-webkit-scrollbar-thumb{
+  background-color: red;
+}
